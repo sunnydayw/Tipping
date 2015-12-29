@@ -1,17 +1,60 @@
-# Tip Calculator Codepath Prework
-My First IOS app on GitHub 
-I spend about 3.5 hours to build this app.
+# Pre-work - *Tipping*
 
-#Instructions
-* Input an bill amount , change number of people and rate your services.
-* TIP % you can use the quick service selection or use stepper to addjust.
-* It will calculated the subtotal, subtotal per person, total tip, tip per person,  each person pays and grand total.
+**Tipping** is a tip calculator application for iOS.
 
-#Special Features
-After you input your bill amount, you can input the total amout that you willing to pay, and it will calclate the everyting else for you! =)
+Submitted by: **Qingtian Chen**
 
-#Walkthrough
-![alt tag](https://raw.githubusercontent.com/sunnydayw/Tipping/master/tipgif.gif)
+Time spent: **4** hours spent in total
 
-#Resources
-http://www.imore.com/best-check-splitting-and-tip-apps-iphone-plates-gratuity-tab-and-more
+## User Stories
+
+The following **required** functionality is complete:
+
+* [*] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ ] Settings page to change the default tip percentage.
+
+The following **optional** features are implemented:
+* [ ] UI animations
+* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Using locale-specific currency and currency thousands separators.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://raw.githubusercontent.com/sunnydayw/Tipping/master/tipgif.gif' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) [2015] [QingTian Chen]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
