@@ -10,8 +10,8 @@ I spend about 3.5 hours to build this app.
 #Special Features
 After you input your bill amount, you can input the total amout that you willing to pay, and it will calclate the everyting else for you! =)
 
-#GIF walkthrough
-
+#Walkthrough
+Tipping/tipgif.gif
 
 #Resources
 http://www.imore.com/best-check-splitting-and-tip-apps-iphone-plates-gratuity-tab-and-more
